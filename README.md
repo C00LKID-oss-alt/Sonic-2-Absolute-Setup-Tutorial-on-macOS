@@ -1,5 +1,5 @@
 # Sonic-2-Absolute-Setup-Tutorial-on-macOS
-This is a tutorial on how to setup Sonic 2 Absolute on macOS
+This is a better tutorial on how to setup Sonic 2 Absolute on macOS
 
 ## Prerequisites
 -UTM: https://getutm.app/
