@@ -13,14 +13,14 @@ This is a better tutorial on how to setup Sonic 2 Absolute on macOS
 ## Step 1: Setting up Sonic 2 Absolute
 First, you need to extract the setup folder and move the Data.rsdk to the setup folder.
 
-Now, make sure the setup folder stays in your Downloads folder do not move it anywhere else until I say so.
+Now, **make sure the setup folder stays in your Downloads folder do not move it anywhere else until I say so.**
 
 ## Step 2: Creating a Windows VM
 Now, once you did the steps above, open UTM and create a Windows virtual machine.
 
-Choose Virtualize, then after go to the "Windows" section and tick "Install Windows 10 or higher" and "Install drivers and SPICE tools" if not ticked.
+Choose Virtualize, then after go to the "Windows" section and tick **"Install Windows 10 or higher" and "Install drivers and SPICE tools"** if not ticked.
 
-After, continue to the "Shared Directory" and select your Downloads folder and untick "Share is read only" if ticked.
+After, **continue to the "Shared Directory" and select your Downloads folder and untick "Share is read only" if ticked.**
 
 Now i am not going to tell you how to set it up but you can watch this video right to set one up here: https://youtu.be/3W-Dm12UiRQ
 
