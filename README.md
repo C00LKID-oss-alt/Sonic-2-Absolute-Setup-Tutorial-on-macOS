@@ -44,7 +44,7 @@ This step will be the last step of setting up Sonic 2 Absolute.
 
 Shut down your Windows VM or just simply close it and close UTM.
 
-Now, on your Mac, create a folder somewhere, such as in "/Applications/" so you could put the RSDKv4.app you got from the .dmg file and the Data, Scripts and Mods folders as well
+Now, on your Mac, create a folder somewhere, such as in "/Applications/" so you could put the RSDKv4.app you got from the .dmg file and the Data, Scripts and Mods folders as well.
 
 Then open the .dmg file and move RSDKv4.app to the folder you just created, and also move the Data, Scripts and Mods folders from the setup folder to the same folder as the RSDKv4.app.
 
